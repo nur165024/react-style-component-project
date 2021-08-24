@@ -1,10 +1,10 @@
 # React Style component
 
-This is my project link [useing style component]()
+This is my project link :
 
 ## styled components
 
-Link: (https://styled-components.com/)
+Link: [styled components](https://styled-components.com/)
 
 ## project screenshort
 
